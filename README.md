@@ -41,6 +41,6 @@ The dataset contains hourly bike rental counts along with weather and holiday in
 | File | Description |
 |------|-------------|
 | [SeoulBikeData.csv](https://github.com/sejalkashyap97/seoul-bike-analysis/blob/main/SeoulBikeData.csv) | Raw dataset from UCI ML Repository |
-| [seoul_bike_analysis.R](https://github.com/sejalkashyap97/seoul-bike-analysis/blob/main/seoul_bike_analysis1.R) | R script for analysis and visualizations |
+| [seoul_Data_analysis1.R](https://github.com/sejalkashyap97/seoul-bike-analysis/blob/main/seoul_Data_analysis1.R) | R script for analysis and visualizations |
 | [Group_13_Presentation.pptx](https://github.com/sejalkashyap97/seoul-bike-analysis/blob/main/Group_13_Presentation.pptx) | Project presentation |
 
